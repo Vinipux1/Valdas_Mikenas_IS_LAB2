@@ -1,0 +1,9 @@
+Nenaudodami MATLAB specializuotų funkcijų (newff, train, sim ir pan.), 
+
+1. sukurkite daugiasluoksnį (dviejų sluoksnių) perceptronų tinklą ir jį apmokykite pasirinktai kreivei (sudarytai iš 20 atskaitų) aproksimuoti. 
+
+2. Tinklo apmokymui įgyvendinkite Backpropagation algoritmą. 
+
+3. Aktyvavimo funkcijas neuronų tinkle pasirinkite savo nuožiūra.
+
+4. Kreivę galite sukurti, pavyzdžiui, naudodami kelias trigonometrines funkcijas.
